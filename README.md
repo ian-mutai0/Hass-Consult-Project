@@ -16,6 +16,7 @@ Within your deliverable you are expected to:
 - Provide a recommendation based on your analysis. 
 - Create residual plots for your models, and assess heteroskedasticity using Barlett's test.
 - Challenge your solution by providing insights on how you can make improvements in model improvement.
+
 While performing your regression analysis, you will be required to perform modeling using the given regression techniques then evaluate their performance. You will be then required to provide your observations and recommendation on the suitability of each of the tested models on their appropriateness of solving the given problem. 
 
 - Multiple Linear Regression
@@ -23,6 +24,7 @@ While performing your regression analysis, you will be required to perform model
 - Ridge Regression
 - Lasso Regression
 - Elastic Net Regression
+
 Remember to go through the rubric so that you can see how you will be assessed on the above regression techniques. 
 
 # Dataset
